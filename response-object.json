@@ -143,6 +143,9 @@
       "minerals": [
         "string"
       ],
+      "vitamins": [
+        "string"
+      ],
       "traces": [
         "string"
       ],

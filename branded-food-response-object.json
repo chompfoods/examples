@@ -37,9 +37,9 @@
             "min": 0,
             "max": 0,
             "median": 0,
+            "rank": 0,
             "data_points": 0,
             "footnote": "string",
-            "source": "string",
             "description": "string"
           }
         ]
@@ -143,10 +143,10 @@
       "minerals": [
         "string"
       ],
-      "vitamins": [
+      "traces": [
         "string"
       ],
-      "traces": [
+      "vitamins": [
         "string"
       ],
       "common_name": "string",

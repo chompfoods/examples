@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "name": "string",
+      "categories": [
+        "string"
+      ],
+      "nutrients": {
+        "usda": [
+          {
+            "id": 0,
+            "name": "string",
+            "per_100g": 0,
+            "measurement_unit": "string",
+            "min": 0,
+            "max": 0,
+            "median": 0,
+            "rank": 0,
+            "data_points": 0,
+            "footnote": "string",
+            "description": "string"
+          }
+        ]
+      },
+      "calorie_conversion_factor": {
+        "protein_value": 0,
+        "fat_value": 0,
+        "carbohydrate_value": 0
+      },
+      "protein_conversion_factor": 0,
+      "diet_labels": {
+        "vegan": {
+          "name": "string",
+          "is_compatible": true,
+          "compatibility_level": 0,
+          "confidence": 0,
+          "confidence_description": "string"
+        },
+        "vegetarian": {
+          "name": "string",
+          "is_compatible": true,
+          "compatibility_level": 0,
+          "confidence": 0,
+          "confidence_description": "string"
+        },
+        "gluten_free": {
+          "name": "string",
+          "is_compatible": true,
+          "compatibility_level": 0,
+          "confidence": 0,
+          "confidence_description": "string"
+        }
+      },
+      "components": [
+        {
+          "name": "string",
+          "pct_weight": 0,
+          "gram_weight": 0,
+          "is_refuse": true,
+          "data_points": 0
+        }
+      ],
+      "portions": [
+        {
+          "measurement_unit": "string",
+          "description": "string",
+          "modifier": "string",
+          "gram_weight": 0,
+          "data_points": 0,
+          "footnote": "string"
+        }
+      ],
+      "common_name": "string",
+      "description": "string",
+      "footnote": "string"
+    }
+  ]
+}

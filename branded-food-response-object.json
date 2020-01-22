@@ -4,16 +4,23 @@
       "barcode": "string",
       "name": "string",
       "brand": "string",
-      "ingredients": "string",
+      "ingredients": {
+        "chomp": "string",
+        "usda": "string"
+      },
       "package": {
         "quantity": 0,
-        "size": 0
+        "size": "string"
       },
       "serving": {
-        "size": 0,
-        "measurement_unit": "string",
-        "size_fulltext": "string",
-        "total": 0
+        "chomp": {
+          "size": "string"
+        },
+        "usda": {
+          "size": "string",
+          "measurement_unit": "string",
+          "size_fulltext": "string"
+        }
       },
       "categories": [
         "string"
@@ -149,7 +156,9 @@
       "vitamins": [
         "string"
       ],
-      "common_name": "string",
+      "common_names": [
+        "string"
+      ],
       "description": "string",
       "keywords": [
         "string"

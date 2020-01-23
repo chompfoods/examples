@@ -4,59 +4,29 @@
       "barcode": "string",
       "name": "string",
       "brand": "string",
-      "ingredients": {
-        "chomp": "string",
-        "usda": "string"
-      },
+      "ingredients": "string",
       "package": {
         "quantity": 0,
         "size": "string"
       },
       "serving": {
-        "chomp": {
-          "size": "string"
-        },
-        "usda": {
-          "size": "string",
-          "measurement_unit": "string",
-          "size_fulltext": "string"
-        }
+        "size": "string",
+        "measurement_unit": "string",
+        "size_fulltext": "string"
       },
       "categories": [
         "string"
       ],
-      "nutrients": {
-        "chomp": [
-          {
-            "name": "string",
-            "measurement_unit": "string",
-            "per_100g": 0,
-            "per_serving": 0,
-            "total": 0
-          }
-        ],
-        "usda": [
-          {
-            "id": 0,
-            "name": "string",
-            "per_100g": 0,
-            "measurement_unit": "string",
-            "min": 0,
-            "max": 0,
-            "median": 0,
-            "rank": 0,
-            "data_points": 0,
-            "footnote": "string",
-            "description": "string"
-          }
-        ]
-      },
-      "calorie_conversion_factor": {
-        "protein_value": 0,
-        "fat_value": 0,
-        "carbohydrate_value": 0
-      },
-      "protein_conversion_factor": 0,
+      "nutrients": [
+        {
+          "name": "string",
+          "per_100g": 0,
+          "measurement_unit": "string",
+          "rank": 0,
+          "data_points": 0,
+          "description": "string"
+        }
+      ],
       "diet_labels": {
         "vegan": {
           "name": "string",
@@ -108,25 +78,6 @@
           "display": "string"
         }
       },
-      "components": [
-        {
-          "name": "string",
-          "pct_weight": 0,
-          "gram_weight": 0,
-          "is_refuse": true,
-          "data_points": 0
-        }
-      ],
-      "portions": [
-        {
-          "measurement_unit": "string",
-          "description": "string",
-          "modifier": "string",
-          "gram_weight": 0,
-          "data_points": 0,
-          "footnote": "string"
-        }
-      ],
       "allergens": [
         "string"
       ],
@@ -156,14 +107,10 @@
       "vitamins": [
         "string"
       ],
-      "common_names": [
-        "string"
-      ],
       "description": "string",
       "keywords": [
         "string"
-      ],
-      "footnote": "string"
+      ]
     }
   ]
 }

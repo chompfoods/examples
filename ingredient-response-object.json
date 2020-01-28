@@ -25,29 +25,6 @@
         "carbohydrate_value": 0
       },
       "protein_conversion_factor": 0,
-      "diet_labels": {
-        "vegan": {
-          "name": "string",
-          "is_compatible": true,
-          "compatibility_level": 0,
-          "confidence": 0,
-          "confidence_description": "string"
-        },
-        "vegetarian": {
-          "name": "string",
-          "is_compatible": true,
-          "compatibility_level": 0,
-          "confidence": 0,
-          "confidence_description": "string"
-        },
-        "gluten_free": {
-          "name": "string",
-          "is_compatible": true,
-          "compatibility_level": 0,
-          "confidence": 0,
-          "confidence_description": "string"
-        }
-      },
       "components": [
         {
           "name": "string",
@@ -68,8 +45,9 @@
         }
       ],
       "common_name": "string",
-      "description": "string",
-      "footnote": "string"
+      "footnote": "string",
+      "search_term": "string",
+      "score": "string"
     }
   ]
 }

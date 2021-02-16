@@ -46,7 +46,7 @@
             "base_ingredients": [
                 "string"
             ],
-            "steps": [
+            "instructions": [
                 "string"
             ],
             "nutrients": {

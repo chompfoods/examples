@@ -1,0 +1,97 @@
+
+{
+    "items": [
+        {
+            "id": "string",
+            "title": "string",
+            "meta": {
+                "url": "string",
+                "images": {
+                    "extra_large": "string",
+                    "large": "string",
+                    "standard": "string",
+                    "grid_view": "string",
+                    "small": "string",
+                    "thumbnail": "string",
+                    "extra_small": "string"
+                },
+                "source": "string",
+                "cuisine": "string",
+                "created": "date",
+                "modified": "date",
+                "nutrients_notice": "string"
+            },
+            "category": [
+                "string"
+            ],
+            "author": "string",
+            "keywords": [
+                "string"
+            ],
+            "topics": [
+                "string"
+            ],
+            "attributes": {
+                "prep_time": "string",
+                "total_time": "string",
+                "servings": "string",
+                "serving_size": "string"
+            },
+            "ingredients": [
+                {
+                    "quantity": "string",
+                    "description": "string"
+                }
+            ],
+            "base_ingredients": [
+                "string"
+            ],
+            "steps": [
+                "string"
+            ],
+            "nutrients": {
+                "calories": [
+                    {
+                        "title": "string",
+                        "value": "string",
+                        "percent": "string"
+                    }
+                ],
+                "daily_values": [
+                    {
+                        "title": "string",
+                        "value": "string",
+                        "percent": "string"
+                    }
+                ],
+                "fat": [
+                    {
+                        "title": "string",
+                        "value": "string",
+                        "percent": "string"
+                    }
+                ],
+                "carbs": [
+                    {
+                        "title": "string",
+                        "value": "string",
+                        "percent": "string"
+                    }
+                ],
+                "vitamins": [
+                    {
+                        "title": "string",
+                        "value": "string",
+                        "percent": "string"
+                    }
+                ],
+            },
+            "diabetic_exchanges": [[
+                "string"
+            ],
+            "topic": [
+                "string"
+            ]
+        }
+    ]
+}

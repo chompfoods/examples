@@ -21,7 +21,7 @@
                 "modified": "string",
                 "nutrients_notice": "string"
             },
-            "category": [
+            "categories": [
                 "string"
             ],
             "author": "string",

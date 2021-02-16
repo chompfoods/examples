@@ -86,7 +86,7 @@
                     }
                 ],
             },
-            "diabetic_exchanges": [[
+            "diabetic_exchanges": [
                 "string"
             ],
             "topic": [

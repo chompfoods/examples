@@ -17,8 +17,8 @@
                 },
                 "source": "string",
                 "cuisine": "string",
-                "created": "date",
-                "modified": "date",
+                "created": "string",
+                "modified": "string",
                 "nutrients_notice": "string"
             },
             "category": [

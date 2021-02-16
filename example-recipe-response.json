@@ -89,7 +89,7 @@
             "diabetic_exchanges": [
                 "string"
             ],
-            "topic": [
+            "topics": [
                 "string"
             ]
         }

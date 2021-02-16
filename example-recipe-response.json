@@ -88,9 +88,6 @@
             },
             "diabetic_exchanges": [
                 "string"
-            ],
-            "topics": [
-                "string"
             ]
         }
     ]

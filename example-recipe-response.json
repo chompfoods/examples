@@ -46,9 +46,6 @@
             "base_ingredients": [
                 "string"
             ],
-            "instructions": [
-                "string"
-            ],
             "nutrients": {
                 "calories": [
                     {
